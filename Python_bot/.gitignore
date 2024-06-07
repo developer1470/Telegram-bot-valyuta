@@ -1,0 +1,27 @@
+# Python
+*.py[cod]
+__pycache__
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Sensitive files
+.env
+*.key
+*.pem
+
+# Build files
+build/
+dist/
+*.egg-info/
