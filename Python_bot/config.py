@@ -1,4 +1,4 @@
-TOKEN = '7002351513:AAEnQSV5ASe73Q6_rJkATsnwEmDWkZrhGmk'
+TOKEN = '****************************************'
 
 kurslar = {
     'USD': 12665.03,
